@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1471186575 source:e:\mist\lecturer\july-november 2016 (ug program)\cse-414 (graphics sessional)\lab-03\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winerror.h
+
+1341010376 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010370 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1341010372 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341010376 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+976645372 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893358000 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+893358000 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
+1341010376 c:\program files\codeblocks\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+
+1341010374 c:\program files\codeblocks\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1341010380 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010374 c:\program files\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1341010376 c:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341010372 c:\program files\codeblocks\mingw\include\getopt.h
+	<_mingw.h>
+
+1341010374 c:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1471186576 source:k:\lab 03\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+
+1471326998 source:c:\users\fahima\desktop\shanta\level4_term2\graphics_lab(cse_414)\lab 03\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+
+1518680811 source:c:\users\admin\desktop\lab3\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+
+1518680811 source:c:\users\admin\desktop\c_sec_graphics_lab\lab3\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+
+1544209988 source:\\mac\home\desktop\graphics lab\cg lab 05\cg lab 05\lab 03 with sound\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+	<mmsystem.h>
+	<unistd.h>
+	<math.h>
+
+1544211422 source:\\mac\home\desktop\lab 03 with sound\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+	<mmsystem.h>
+	<unistd.h>
+	<math.h>
+
+1544213358 source:\\mac\home\desktop\2d_car_game\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1544215485 source:c:\users\rubel\documents\2d_car_game\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
