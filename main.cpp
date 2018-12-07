@@ -1,3 +1,5 @@
+/* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
+
 #include <windows.h>
 #ifdef __APPLE__
 #include <GLUT/glut.h>
@@ -70,6 +72,8 @@ void tree(int x, int y)
     glVertex2f(newx + 10 - 3, newy + 55 - 3);
     glEnd();
 }
+
+/* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
 
 void startGame()
 {
@@ -244,6 +248,8 @@ void startGame()
         start = 0;
         gv = 1;
     }
+
+/* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
 
     //Opposite car 2
     glColor3f(0.000, 0.000, 0.000);
@@ -459,6 +465,7 @@ void fristDesign()
 
     glColor3f(0.000, 1.000, 1.000);
     renderBitmapString(30 - 5, 50 - 40, (void *)font3, "MD RUBEL");
+    /* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
     renderBitmapString(30 - 8, 50 - 43, (void *)font3, "152-15-6037");
 }
 
@@ -568,6 +575,8 @@ int main(int argc, char *argv[])
     glutInitWindowSize(500, 650);
     glutInitWindowPosition(200, 20);
     glutCreateWindow("2D-Car-Game by MD RUBEL");
+
+    /* Main Project URL: https://github.com/md-rubel/2D-Car-Game-OpenGL  */
 
     glutDisplayFunc(display);
     glutSpecialFunc(spe_key);
