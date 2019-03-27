@@ -1,4 +1,4 @@
-# 2D Car Race Game | OpenGL C++
+# 2D Car Race Game | OpenGL C++ [modified]
 __OpenGL and C++ 2D Car Race game With GLUT library.__
 
 __IDE: Code::Blocks__
